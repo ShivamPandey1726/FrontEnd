@@ -1,8 +1,7 @@
-import WebsiteRouter from './First Website/WebsiteRouter';
-
+import ZodiacSign from './Zodiac SIgn/ZodiacSign';
 function App() {
   return (
-    <WebsiteRouter/>
+    <ZodiacSign/>
   );
 }
 export default App;
